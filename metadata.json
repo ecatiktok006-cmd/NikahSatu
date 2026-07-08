@@ -1,0 +1,6 @@
+{
+  "name": "Malaysia Luxury Wedding Planner",
+  "description": "A premium interactive planning platform for luxury weddings in Malaysia, featuring an interactive regional map, curated venues, and exclusive fixed tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
